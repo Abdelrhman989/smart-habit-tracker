@@ -24,7 +24,7 @@
 - **Notifications**: Web Push API + VAPID  
 - **Scheduler**: node-cron + moment  
 - **PDF/CSV**: pdfkit + json2csv
-
+- **testing**: jest + supertest + dotenv
 ---
 
 ## ⚙️ كيفية التشغيل محليًا
