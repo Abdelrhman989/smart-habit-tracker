@@ -24,7 +24,7 @@ app.use(express.json());
 connectDB();
 
 app.get('/', (req, res) => {
-  res.send('Smart Habit Tracker API is running ✅');
+  res.send('Smart Habit Tracker API ✅');
 });
 
 
